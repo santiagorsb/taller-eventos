@@ -1,4 +1,4 @@
 document.getElementsByClassName("container")
-addEventListener("click", function() {
+addEventListener("dblclick", function() {
     alert("Soy el div");
   });
